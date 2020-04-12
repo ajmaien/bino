@@ -117,10 +117,10 @@ a,a:hover{
     border: 1px solid #e74c3c;
     transition: 1s ease-in; 
 }
-.down img{
-	position: absolute;
-	margin-top: 300px;
-	margin-left:-30px;
+.down img {
+    position: absolute;
+    margin-top: 246px;
+    margin-left: -30px;
 }
 
 /***********************************************************
